@@ -1,6 +1,6 @@
 # disCORdobHOD
 
-Если Discord висит на Connecting, disCORdobHOD поднимает голосовые и видео без стороннего туннеля.
+Обновлённая версия с поддержкой работы Discord. Быстрее, надежнее, стабильнее
 
 Если Discord висит на Connecting, disCORdobHOD поднимает голосовые и видео без стороннего туннеля. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
